@@ -12,3 +12,8 @@ This App contains two type of users:
     the manager recieves this request and send his response to it either Approve/Reject with possibility to add notes on the response.
     -Also the app allows the Employee to submit his attendance in the app with checking the location (Attending in the company) and not using any Location chanhger app (Mock Location is Off)
     -As the Employee can review his salaries history and the old transactions history, with powerfull UI design and options.
+
+
+App Link on Stores:
+Google Play: https://play.google.com/store/apps/details?id=com.siroco.sirocohr
+AppStore: https://apps.apple.com/jo/app/siroco-hr-self-service/id6464170558
