@@ -14,6 +14,8 @@ This App contains two type of users:
     -As the Employee can review his salaries history and the old transactions history, with powerfull UI design and options.
 
 
+
+
 App Link on Stores:
 
 Google Play: https://play.google.com/store/apps/details?id=com.siroco.sirocohr
